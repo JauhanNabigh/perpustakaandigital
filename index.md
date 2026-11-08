@@ -12,5 +12,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [alice-s-adventures-in-wonderland-lewis-carroll](ebook/alice-s-adventures-in-wonderland-lewis-carroll.pdf) – JauhanNabigh (2026)
 9. [the-great-gatsby-f-scott-fitzgerald](ebook/the-great-gatsby-f-scott-fitzgerald.pdf) – JauhanNabigh (2026)
 10. [Nineteen-Eighty-Four-Author-George-Orwell](ebook/Nineteen-Eighty-Four-Author-George-Orwell.pdf) – JauhanNabigh (2026)
-11. [pride-and-prejudice-jane-austen](ebook/pride-and-prejudice-jane-austen.pdf) – JauhanNabigh (2026)
-*Powered by GitHub Pages*
+11. [pride-and-prejudice-jane-austen](ebook/pride-and-prejudice-jane-austen.pdf) – JauhanNabigh (2026) *Powered by GitHub Pages*
