@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [the-old-man-and-the-sea-ernest-hemingway](ebook/the-old-man-and-the-sea-ernest-hemingway.pdf) – JauhanNabigh (2026)
+1. [The Old Man and the Sea Ernest Hemingway](ebook/the-old-man-and-the-sea-ernest-hemingway.pdf) – JauhanNabigh (2026)
 2. [dracula-bram-stoker](ebook/dracula-bram-stoker.pdf) – JauhanNabigh (2026)
 3. [the-metamorphosis-franz-kafka](ebook/the-metamorphosis-franz-kafka.pdf) – JauhanNabigh (2026)
 4. [The-Adventures-of-Sherlock-Holmes-Author-Arthur-Conan-Doyle](ebook/The-Adventures-of-Sherlock-Holmes-Author-Arthur-Conan-Doyle.pdf) – JauhanNabigh (2026)
