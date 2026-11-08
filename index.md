@@ -8,8 +8,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [The Adventures of Sherlock Holmes Author Arthur Conan Doyle](ebook/The-Adventures-of-Sherlock-Holmes-Author-Arthur-Conan-Doyle.pdf) – JauhanNabigh (2026)
 5. [The Odyssey Homer](ebook/the-odyssey-homer.pdf) – JauhanNabigh (2026)
 6. [Romeo and Juliet William Shakespeare](ebook/romeo-and-juliet-william-shakespeare.pdf) – JauhanNabigh (2026)
-7. [alice-s-adventures-in-wonderland-lewis-carroll](ebook/alice-s-adventures-in-wonderland-lewis-carroll.pdf) – JauhanNabigh (2026)
-8. [the-great-gatsby-f-scott-fitzgerald](ebook/the-great-gatsby-f-scott-fitzgerald.pdf) – JauhanNabigh (2026)
-9. [Nineteen-Eighty-Four-Author-George-Orwell](ebook/Nineteen-Eighty-Four-Author-George-Orwell.pdf) – JauhanNabigh (2026)
-10. [pride-and-prejudice-jane-austen](ebook/pride-and-prejudice-jane-austen.pdf) – JauhanNabigh (2026)
+7. [Alices Adventures in Wonderland Lewis Carroll](ebook/alice-s-adventures-in-wonderland-lewis-carroll.pdf) – JauhanNabigh (2026)
+8. [The Great Gatsby F Scott Fitzgerald](ebook/the-great-gatsby-f-scott-fitzgerald.pdf) – JauhanNabigh (2026)
+9. [Nineteen Eighty Four Author George Orwell](ebook/Nineteen-Eighty-Four-Author-George-Orwell.pdf) – JauhanNabigh (2026)
+10. [Pride and Prejudice Jane Austen](ebook/pride-and-prejudice-jane-austen.pdf) – JauhanNabigh (2026)
 *Powered by GitHub Pages*
