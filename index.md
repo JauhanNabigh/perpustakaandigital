@@ -15,4 +15,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [The Great Gatsby](ebook/the-great-gatsby-f-scott-fitzgerald.pdf) – F. Scott Fitzgerald (1925)
 9. [Nineteen Eighty Four](ebook/Nineteen-Eighty-Four-Author-George-Orwell.pdf) – George Orwell (1949)
 10. [Pride and Prejudice](ebook/pride-and-prejudice-jane-austen.pdf) – Jane Austen (1813)
+11. [Catatan UGC PATI_Muhammad Jauhan Nabigh_13040124140135](ebook/Catatan-UGC-PATI-Muhammad Jauhan Nabigh-13040124140135.pdf) – Jauhan Nabigh (2026)
 *Powered by GitHub Pages*
