@@ -1,5 +1,5 @@
 ## Nama: Muhammad Jauhan Nabigh
-## NIM : 13040124140135
+## NIM: 13040124140135
 
 # Digital Library
 Selamat Datang di Perpustakaan Digital
